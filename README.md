@@ -8,7 +8,7 @@
 
 ## 💻 Tech Stack
 
-**Languages**: TypeScript, JavaScript  
+**Languages**: JavaScript  
 **Frameworks & Tools**: React, Redux, Node.js, Express.js  
 **Testing**: Jest  
 
