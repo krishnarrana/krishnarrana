@@ -26,7 +26,7 @@
 - Ensured cross-browser compatibility and maintained high-quality code through debugging and reviews.
 
 ### **Frontend Developer | Web & Coffee ApS, Copenhagen**  
-*(Sep 2022 - Oct 2023)*
+*(Oct 2018 - Apr 2019)*
 - Built and optimized user interfaces using React.js, translating complex wireframes into functional web components.
 - Applied modern web development tools and practices to deliver high-quality, scalable applications.
 
