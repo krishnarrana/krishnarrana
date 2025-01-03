@@ -1,7 +1,7 @@
 ## About Me
 
 💼 **Current Role**: Online Specialist at Jabra  
-🚀 **Experience**: Over 3 years of building robust web applications with modern tools.  
+🚀 **Experience**: Over 5 years of building robust web applications with modern tools.  
 🌍 **Location**: Copenhagen, Denmark  
 
 ---
